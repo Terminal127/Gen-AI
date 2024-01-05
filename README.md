@@ -1,1 +1,1 @@
-# gemini_plugin
+# NeoVim Gemini Plugin
