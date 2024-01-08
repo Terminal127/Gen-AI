@@ -1,1 +1,1 @@
-# NeoVim Gemini Plugin
+# NeoVim AI Plugin
