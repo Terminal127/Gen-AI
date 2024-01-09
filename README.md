@@ -1,4 +1,3 @@
-
 # NeoVim AI Plugin
 
 This is a neovim plugin which using Lua. It is just made for fun and dont take it as a full fleged project but feel free to contribute.
@@ -36,7 +35,7 @@ Remember it is advisible to use virtual environment for this use.
 
 ```lua
     remember to enter your API key in the ai.lua file.
-    append the contents of the init.lua to your existing init.lua file.
+    append the contents of the init.lua to your existing init.lua file.(Enter your api key in this state)
     copy the ai.lua file in your lua folder of /path/to/your_nvim_config_file
 
 ```
