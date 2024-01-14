@@ -1,4 +1,7 @@
-<img align=center src="https://github.com/Terminal127/nvim_gemini_plugin/blob/main/genai-high-resolution-logo-transparent.png" width=600 height=300>
+<p align="center">
+    <img src="https://github.com/Terminal127/nvim_gemini_plugin/blob/main/genai-high-resolution-logo-transparent.png" width="600" height="300" alt="Image">
+</p>
+
 
 This is a neovim plugin which using Lua. It is just made for fun and dont take it as a full fleged project but feel free to contribute.
 
