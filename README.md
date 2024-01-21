@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Terminal127/nvim_gemini_plugin/blob/main/genai-high-resolution-logo-transparent.png" width="600" height="300" alt="Image">
+    <img src="https://github.com/Terminal127/nvim_gemini_plugin/blob/main/img.png" width="600" height="300" alt="Image">
 </p>
 
 
