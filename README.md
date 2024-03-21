@@ -44,7 +44,7 @@ Remember it is advisible to use virtual environment for this use.
 ```
 
 ## Demo Usage
-<img src="https://github.com/Terminal127/Gen-AI/blob/main/Gen-Ai%20video%20(2).gif" alt="Demo Video" width="500" height="300">
+<img src="https://github.com/Terminal127/Gen-AI/blob/main/Gen-Ai%20video%20(2).gif" alt="Demo Video" width="700" height="500">
 
 
 
