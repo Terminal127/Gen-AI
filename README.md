@@ -43,6 +43,9 @@ Remember it is advisible to use virtual environment for this use.
 
 ```
 
+## Demo Usage
+![Demo Video](https://github.com/Terminal127/Gen-AI/blob/main/Gen-Ai%20video%20(2).gif)
+
 
 #
 [![GNU License](https://img.shields.io/badge/License-GNU-green.svg)](https://choosealicense.com/licenses/gnu/)
